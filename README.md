@@ -18,7 +18,10 @@ Running the project is easy:
 3. Scroll up and down to view the full page.
 
 ## 📸 Screenshots
-*(Add images of the login page here to showcase the design)*
+![alt text](image.png)
+
+![alt text](<Screenshot 2025-03-03 131201.png>)
+
 
 ## 🤝 Contributing
 Feel free to fork this repository, improve the design, and submit pull requests.
