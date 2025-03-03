@@ -18,9 +18,11 @@ Running the project is easy:
 3. Scroll up and down to view the full page.
 
 ## 📸 Screenshots
-![alt text](image.png)
 
 ![alt text](<Screenshot 2025-03-03 131201.png>)
+
+![alt text](image.png)
+
 
 
 ## 🤝 Contributing
